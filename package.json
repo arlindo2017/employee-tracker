@@ -1,7 +1,7 @@
 {
-  "name": "list-geni",
+  "name": "employee-tracker",
   "version": "1.0.0",
-  "description": "A command line list generator. Input the tasks you plan to complete today and List Geni generates a cleanly styled html document for viewing your tasks.",
+  "description": "A command line employee tracker",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -10,6 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "cli-boxes": "^3.0.0",
     "console.table": "^0.10.0",
     "inquirer": "^8.2.4",
     "mysql2": "^3.2.0"
