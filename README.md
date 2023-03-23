@@ -32,5 +32,5 @@ Can be utilized to manage a team of departments, roles and its employees.
 - cliBoxes to create headers for the application
 
 ## Walkthrough Video
-https://youtu.be/BCwQ0Ivauds
+https://youtu.be/4Jjsw9MKB20
 
