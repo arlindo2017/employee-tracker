@@ -13,6 +13,7 @@
     "cli-boxes": "^3.0.0",
     "console.table": "^0.10.0",
     "inquirer": "^8.2.4",
-    "mysql2": "^3.2.0"
+    "mysql2": "^3.2.0",
+    "dotenv": "^8.2.0"
   }
 }
